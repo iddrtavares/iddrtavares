@@ -17,7 +17,7 @@
 **Jesus first** 
 
 🔭 I’m currently working as an **SRE (Site Reliability Engineer)** specializing in **Infrastructure as Code (IaC)**, cloud computing, and observability.  
-🌱 I’m currently learning more about **OpenTelemetry** and improving my **English skills to fluency**.  
+🌱 I’m learning more about **OpenTelemetry** and improving my **English skills to fluency**.  
 👯 I’m looking to collaborate on **IaC projects, Kubernetes automation, and cloud observability solutions**.  
 🤔 I’m looking for help with **advanced OpenTelemetry use cases and performance monitoring strategies**.  
 💬 Ask me about **Terraform, AWS, Kubernetes (EKS), Docker, Grafana, Linux, and Splunk**.  
@@ -40,7 +40,7 @@
 </p>
 
 😄 Pronouns: **He/Him**  
-⚡ Fun fact: **I love automating everything and optimizing infrastructure performance and also surfing because life is short!! 🚀**  
+⚡ Fun fact: **I love automating everything, optimizing infrastructure performance, and surfing because life is short!! 🚀**  
 
 ---
 
